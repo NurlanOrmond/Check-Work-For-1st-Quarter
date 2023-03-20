@@ -1,15 +1,15 @@
 # Hello!
-Here is my test work for completeing 1st quarter of my education.
+Here is my test work for completing 1st quarter of my education.
 I have a task:
-* Write a program which produce new array from existing array with conditions that elements of new array are equal or less then a three symbols.
 
-![This is Diagram for the Task](Text_Array_Diagram.jpg)
+Write a program which produce new array from existing array with conditions that elements of new array are equal or less then a three symbols.
 
+## My Diagram:
 
 
 ![This is fixed Diagram for the Task](Text_Array_Diagram_fixed.jpg)
 
-# How to solve Task:
+## How to solve Task:
 1. Get Input Array.
 2. Start to compare the Length of every element to less or equal to 3.
 3. If condition in Step 2 is True we add that element to Output Array.
