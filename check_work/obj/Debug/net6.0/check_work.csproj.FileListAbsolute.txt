@@ -1,0 +1,15 @@
+C:\Users\NURLAN\Desktop\C#\Final Check Work\check_work\bin\Debug\net6.0\check_work.exe
+C:\Users\NURLAN\Desktop\C#\Final Check Work\check_work\bin\Debug\net6.0\check_work.deps.json
+C:\Users\NURLAN\Desktop\C#\Final Check Work\check_work\bin\Debug\net6.0\check_work.runtimeconfig.json
+C:\Users\NURLAN\Desktop\C#\Final Check Work\check_work\bin\Debug\net6.0\check_work.dll
+C:\Users\NURLAN\Desktop\C#\Final Check Work\check_work\bin\Debug\net6.0\check_work.pdb
+C:\Users\NURLAN\Desktop\C#\Final Check Work\check_work\obj\Debug\net6.0\check_work.csproj.AssemblyReference.cache
+C:\Users\NURLAN\Desktop\C#\Final Check Work\check_work\obj\Debug\net6.0\check_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NURLAN\Desktop\C#\Final Check Work\check_work\obj\Debug\net6.0\check_work.AssemblyInfoInputs.cache
+C:\Users\NURLAN\Desktop\C#\Final Check Work\check_work\obj\Debug\net6.0\check_work.AssemblyInfo.cs
+C:\Users\NURLAN\Desktop\C#\Final Check Work\check_work\obj\Debug\net6.0\check_work.csproj.CoreCompileInputs.cache
+C:\Users\NURLAN\Desktop\C#\Final Check Work\check_work\obj\Debug\net6.0\check_work.dll
+C:\Users\NURLAN\Desktop\C#\Final Check Work\check_work\obj\Debug\net6.0\refint\check_work.dll
+C:\Users\NURLAN\Desktop\C#\Final Check Work\check_work\obj\Debug\net6.0\check_work.pdb
+C:\Users\NURLAN\Desktop\C#\Final Check Work\check_work\obj\Debug\net6.0\check_work.genruntimeconfig.cache
+C:\Users\NURLAN\Desktop\C#\Final Check Work\check_work\obj\Debug\net6.0\ref\check_work.dll
